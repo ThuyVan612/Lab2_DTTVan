@@ -5,7 +5,12 @@
     "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\n+ Nước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
     "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
   },
-
+ {
+    "id": 2,
+    "name": "Tôm chiên pesto với tỏi và khoai tây",
+    "cookingRecipe": "Thành phần\n+ 285 gram Tôm sú\n+ 340 gram Khoai tây\n+ 56 gram Hành tây đỏ\n+ 113 gram Cà chua bi\n+ 56 gram Rau cải lông\n+ 10 gram Mùi tây\n+ 10 gram Tỏi\n+ 28 gram Quả óc chó\n+ 35 gram Phô mai Parmesan\n+ 1 thìa canh Giấm gạo\nCách làm\n- Bước 1: Làm nóng lò ở 450 ° F. Rửa sạch và để ráo nước cá nguyên liệu. Cắt khoai tây thành miếng nhỏ vừa ăn.Trên một khay nướng, đảo đều khoai tây với 1 thìa canh dầu ăn rồi nêm với muối và hạt tiêu. Nướng trong khoảng 25 - 28 phút cho đến khi khoai tây chín, có màu vàng nâu.\n- Bước 2: Băm nhỏ rau mùi tây. Xắt nhỏ quả óc chó. Băm nhuyễn tỏi. Cắt đôi cà chua. Rửa sạch tôm rồi dùng giấy ăn thấm nhẹ cho khô. \n- Bước 3: Trong một bát to, trộn rau mùi tây, quả óc chó, phô mai, 1 thìa canh giấm với 2 thìa canh dầu. Nêm với 1/2 thìa muối và hạt tiêu. Để riêng ra một bên.\n- Bước 4: Làm nóng chảo chống dính to trên lửa vừa. Khi chảo nóng, cho 1 thìa canh dầu, sau đó cho hành tây đã băm nhỏ vào. Đảo đều tay trong 8 - 10 phút cho đến khi hành chín vàng nâu rồi cho cà chua, tôm và tỏi vào. Thỉnh thoảng lại đảo đều tay trong 4 - 5 phút cho đến khi cà chua mềm và tôm chuyển sang màu hồng.\n- Bước 5: Khi khoai tây đã nướng xong, cho vào bát với phần sốt đã trộn. Thêm rau cải lông đã băm nhỏ và nhẹ nhàng trộn đều.\n- Bước 6: Chia phần khoai tây với sốt ra các đĩa, sau đó xếp tôm lên trên là hoàn thành.",
+    "image": "http://gl.amthuc365.vn/thumbnails/850/590//uploads/i/Tom-chien-pesto-voi-toi-va-khoai-tay-day-dinh-duong-1.jpg"
+  },
   {
     "id": 3,
     "name": "mì Ý tôm sốt kem",
